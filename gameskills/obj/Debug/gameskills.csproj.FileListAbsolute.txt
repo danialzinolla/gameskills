@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\gameskills\gameskills\bin\Debug\gameskills.exe.config
+C:\Users\Пользователь\source\repos\gameskills\gameskills\bin\Debug\gameskills.exe
+C:\Users\Пользователь\source\repos\gameskills\gameskills\bin\Debug\gameskills.pdb
+C:\Users\Пользователь\source\repos\gameskills\gameskills\obj\Debug\gameskills.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\gameskills\gameskills\obj\Debug\gameskills.Form1.resources
+C:\Users\Пользователь\source\repos\gameskills\gameskills\obj\Debug\gameskills.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\gameskills\gameskills\obj\Debug\gameskills.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\gameskills\gameskills\obj\Debug\gameskills.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\gameskills\gameskills\obj\Debug\gameskills.exe
+C:\Users\Пользователь\source\repos\gameskills\gameskills\obj\Debug\gameskills.pdb
